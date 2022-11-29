@@ -1,0 +1,16 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		obrigadoAmigo()
+
+		
+	}
+	funcao obrigadoAmigo() 
+	{
+	
+	escreva("Obrigado, amigo, você é um amigo!")
+	
+  } 
+}
